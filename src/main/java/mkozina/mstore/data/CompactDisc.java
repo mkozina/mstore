@@ -7,6 +7,10 @@ public class CompactDisc {
 	private int year = 1900;
 	private int tracks = 99;
 
+	public CompactDisc(){
+		
+	}
+	
 	public CompactDisc(String artist, String album, int year, int tracks) {
 		this.artist = artist;
 		this.album = album;
@@ -42,7 +46,7 @@ public class CompactDisc {
 		return tracks;
 	}
 
-	public void settracks(int tracks) {
+	public void setTracks(int tracks) {
 		this.tracks = tracks;
 		}
 	
