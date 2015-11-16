@@ -6,6 +6,7 @@
 <html>
 <head>
 	<title>List of CD's in APHASIA Music Store DB</title>
+	<link href="<c:url value="/resources/main.css" />" rel="stylesheet">
 </head>
 <body>
 

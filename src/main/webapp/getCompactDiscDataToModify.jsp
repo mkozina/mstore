@@ -5,6 +5,7 @@
 <html>
 <head>
 	<title>Modify a CD from APHASIA Music Store DB</title>
+	<link href="<c:url value="/resources/main.css" />" rel="stylesheet">
 </head>
 <body>
 
