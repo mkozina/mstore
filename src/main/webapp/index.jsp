@@ -5,8 +5,11 @@
 	<title>Welcome to APHASIA Music Store</title>
 </head>
 <body>
+
 	<h2>APHASIA</h2>
+	
 	<p><a href="showAllCompactDiscs.jsp">Take a look at your DB</a></p>
-	<p><a href="getCompactDiscData.jsp">Insert a new CD into your DB</a></p>
+	<p><a href="getCompactDiscDataToAdd.jsp">Insert a new CD into your DB</a></p>
+	
 </body>
 </html>
