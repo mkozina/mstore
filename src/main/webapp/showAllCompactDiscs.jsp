@@ -50,6 +50,7 @@
 		</c:forEach>
 	</table>
 
+	<p><a href="summary">Display summary for your DB</a></p>
 	<p><a href="getCompactDiscDataToSearch.jsp">Search DB for specific item's</a></p>
 	<p><a href="index.jsp">Back to Main Page</a></p>
 	
