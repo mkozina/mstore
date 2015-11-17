@@ -62,7 +62,7 @@
 			</c:if>
 			</c:if>
 		</c:forEach>
-		<c:if test="${access == 0}"><p>Sorry, there is nothing that matches your search.</p></c:if>
+		<c:if test="${access == 0}"><tr><td><p>Sorry, there is nothing that matches your search.</p></td></tr></c:if>
 	</table>
 	
 	<p><a href="getCompactDiscDataToSearch.jsp">Search again</a></p>

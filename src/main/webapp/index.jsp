@@ -8,7 +8,7 @@
 </head>
 <body>
 
-	<h2>APHASIA</h2>
+	<h2>Aphasia</h2>
 	
 	<p><a href="showAllCompactDiscs.jsp">Take a look at your DB</a></p>
 	<p><a href="getCompactDiscDataToSearch.jsp">Search DB for specific item's</a></p>
