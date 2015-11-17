@@ -35,4 +35,15 @@ public class DataBase {
 		return db;
 	}
 	
+	// pobranie pojedynczego obiektu
+	// parametr wskazuje na indeks obiektu w liscie
+	public CompactDisc getCompactDisc(int position){
+		return db.get(position);
+	}
+	
+	// pobranie rozmiaru listy
+	public int getSize(){
+		return db.size();
+	}
+	
 }
